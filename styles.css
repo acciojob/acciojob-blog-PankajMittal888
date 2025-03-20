@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body{
+	display:flex;
+	flex-direction:column;
+	justify-content:left;
+}
+
+img{
+	box-sizing:border-box;
+	height:200px;
+	
+}
